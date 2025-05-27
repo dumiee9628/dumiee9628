@@ -1,6 +1,6 @@
--Hi there, i'm @dumiee9628
+ -Hi there, i'm @dumiee9628
 - Welcome to my GitHb profile! i'm passionate about creating new things on the web 
--I’m currently learning how to develop and design websites 
+- I’m currently learning how to develop and design websites 
 - I love learning new skills and language
 - I'm always curious and exploring new tech
 
