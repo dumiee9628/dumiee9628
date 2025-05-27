@@ -6,7 +6,7 @@
 
 
 How to reach me 
--{linkedin}(https://www.linkedin.com/in/dumisile-khoza-679b26324?utm_source=share&utm_campaign=share_via&um_content=profile&utm_medium=android_app)
+-{Linkedin}(https://www.linkedin.com/in/dumisile-khoza-679b26324?utm_source=share&utm_campaign=share_via&um_content=profile&utm_medium=android_app)
 -{Github}(https://github.com/dumiee9628)
 
 <!---
