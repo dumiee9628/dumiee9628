@@ -7,7 +7,7 @@
 
 How to reach me 
 -{linkedin}(https://www.linkedin.com/in/dumisile-khoza-679b26324?utm_source=share&utm_campaign=share_via&um_content=profile&utm_medium=android_app)
-{-Github}(https://github.com/dumiee9628)
+-{Github}(https://github.com/dumiee9628)
 
 <!---
 dumiee9628/dumiee9628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
